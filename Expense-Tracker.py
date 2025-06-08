@@ -986,12 +986,6 @@ genai.configure(api_key="AIzaSyCgX45zBv3WDH4G4sxuKAFK_eb788bgX34")
 model = genai.GenerativeModel('models/gemini-pro')
 chat = model.start_chat(history=[])
 
-model = genai.GenerativeModel("gemini-pro")
-# chat = model.start_chat()
-# response = chat.send_message("Hello!")
-# print(response.text)
-
-# Toggle this based on whether API key is configured
 has_ai_features = True
 
 # Main application

@@ -1,0 +1,139 @@
+2025-06-08 22:49:02,650 - INFO - Attempting to connect to database...
+2025-06-08 22:49:02,653 - ERROR - MySQL Error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+2025-06-08 22:49:02,653 - WARNING - Could not establish database connection. Some features may not work.
+2025-06-08 22:49:12,948 - ERROR - Error loading image background.jpg: [Errno 2] No such file or directory: 'background.jpg'
+2025-06-08 22:49:12,948 - ERROR - Error loading image side.png: [Errno 2] No such file or directory: 'side.png'
+2025-06-08 22:49:34,074 - INFO - Attempting to connect to database...
+2025-06-08 22:49:34,075 - ERROR - MySQL Error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+2025-06-08 22:49:53,026 - INFO - Attempting to connect to database...
+2025-06-08 22:49:53,028 - ERROR - MySQL Error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+2025-06-08 22:49:53,028 - WARNING - Could not establish database connection. Some features may not work.
+2025-06-08 22:52:16,876 - INFO - Attempting to connect to database...
+2025-06-08 22:52:16,877 - ERROR - Invalid database username or password
+2025-06-08 22:52:38,003 - INFO - Attempting to connect to database...
+2025-06-08 22:52:38,006 - ERROR - Invalid database username or password
+2025-06-08 22:52:38,006 - WARNING - Could not establish database connection. Some features may not work.
+2025-06-08 22:52:41,932 - ERROR - Error loading image background.jpg: [Errno 2] No such file or directory: 'background.jpg'
+2025-06-08 22:52:41,932 - ERROR - Error loading image side.png: [Errno 2] No such file or directory: 'side.png'
+2025-06-08 22:52:52,520 - INFO - Attempting to connect to database...
+2025-06-08 22:52:52,520 - ERROR - Invalid database username or password
+2025-06-08 22:56:31,120 - INFO - Attempting to connect to database...
+2025-06-08 22:56:31,123 - INFO - Creating database if it doesn't exist...
+2025-06-08 22:56:31,134 - INFO - Database tables initialized successfully
+2025-06-08 22:56:31,135 - INFO - Database connection successful
+2025-06-08 22:56:41,717 - INFO - Attempting login for user: nk
+2025-06-08 22:56:41,718 - WARNING - No user found with ID: nk
+2025-06-08 22:56:43,812 - ERROR - Error loading image background.jpg: [Errno 2] No such file or directory: 'background.jpg'
+2025-06-08 22:56:43,812 - ERROR - Error loading image side.png: [Errno 2] No such file or directory: 'side.png'
+2025-06-08 23:05:41,430 - INFO - Database connection closed properly
+2025-06-08 23:05:46,302 - INFO - Attempting to connect to database...
+2025-06-08 23:05:46,305 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:05:46,306 - INFO - Database tables initialized successfully
+2025-06-08 23:05:46,306 - INFO - Database connection successful
+2025-06-08 23:06:57,161 - INFO - Attempting login for user: Naveenkumar42
+2025-06-08 23:06:57,162 - WARNING - No user found with ID: Naveenkumar42
+2025-06-08 23:07:12,385 - INFO - Attempting login for user: Naveen
+2025-06-08 23:07:12,385 - WARNING - No user found with ID: Naveen
+2025-06-08 23:07:28,411 - INFO - Attempting login for user: Naveen
+2025-06-08 23:07:28,411 - WARNING - No user found with ID: Naveen
+2025-06-08 23:07:52,508 - INFO - Attempting login for user: Nk
+2025-06-08 23:07:52,509 - WARNING - No user found with ID: Nk
+2025-06-08 23:07:55,376 - INFO - Database connection closed properly
+2025-06-08 23:07:59,941 - INFO - Attempting to connect to database...
+2025-06-08 23:07:59,944 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:07:59,944 - INFO - Database tables initialized successfully
+2025-06-08 23:07:59,944 - INFO - Database connection successful
+2025-06-08 23:08:08,515 - INFO - Attempting login for user: nk
+2025-06-08 23:08:08,516 - WARNING - No user found with ID: nk
+2025-06-08 23:08:20,459 - INFO - Attempting login for user: naveenkumar
+2025-06-08 23:08:20,460 - INFO - User found in database
+2025-06-08 23:08:20,460 - INFO - Password matches, login successful
+2025-06-08 23:15:49,799 - INFO - Database connection closed properly
+2025-06-08 23:15:54,327 - INFO - Attempting to connect to database...
+2025-06-08 23:15:54,330 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:15:54,330 - INFO - Database tables initialized successfully
+2025-06-08 23:15:54,330 - INFO - Database connection successful
+2025-06-08 23:16:16,855 - INFO - Database connection closed properly
+2025-06-08 23:16:21,159 - INFO - Attempting to connect to database...
+2025-06-08 23:16:21,163 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:16:21,163 - INFO - Database tables initialized successfully
+2025-06-08 23:16:21,163 - INFO - Database connection successful
+2025-06-08 23:19:53,279 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-08 23:19:53,279 - INFO - Attempting to connect to database...
+2025-06-08 23:19:53,282 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:19:53,283 - INFO - Database tables initialized successfully
+2025-06-08 23:19:53,283 - INFO - Database connection successful
+2025-06-08 23:20:08,590 - INFO - Attempting login for user: naveenkumar
+2025-06-08 23:20:08,590 - INFO - User found in database
+2025-06-08 23:20:08,590 - INFO - Password matches, login successful
+2025-06-08 23:20:29,329 - INFO - Database connection closed properly
+2025-06-08 23:20:31,421 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-08 23:20:31,421 - INFO - Attempting to connect to database...
+2025-06-08 23:20:31,424 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:20:31,425 - INFO - Database tables initialized successfully
+2025-06-08 23:20:31,425 - INFO - Database connection successful
+2025-06-08 23:20:43,514 - INFO - Database connection closed properly
+2025-06-08 23:20:45,326 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-08 23:20:45,326 - INFO - Attempting to connect to database...
+2025-06-08 23:20:45,329 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:20:45,329 - INFO - Database tables initialized successfully
+2025-06-08 23:20:45,329 - INFO - Database connection successful
+2025-06-08 23:20:58,633 - INFO - Attempting login for user: naveenkumar
+2025-06-08 23:20:58,634 - INFO - User found in database
+2025-06-08 23:20:58,634 - INFO - Password matches, login successful
+2025-06-08 23:20:58,768 - ERROR - Error during login: Too early to use font: no default root window
+2025-06-08 23:22:39,752 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-08 23:22:39,752 - INFO - Attempting to connect to database...
+2025-06-08 23:22:39,754 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:22:39,755 - INFO - Database tables initialized successfully
+2025-06-08 23:22:39,755 - INFO - Database connection successful
+2025-06-08 23:22:48,406 - INFO - Database connection closed properly
+2025-06-08 23:22:50,299 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-08 23:22:50,299 - INFO - Attempting to connect to database...
+2025-06-08 23:22:50,302 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:22:50,302 - INFO - Database tables initialized successfully
+2025-06-08 23:22:50,302 - INFO - Database connection successful
+2025-06-08 23:23:01,139 - INFO - Attempting login for user: naveenkumar
+2025-06-08 23:23:01,139 - INFO - User found in database
+2025-06-08 23:23:01,139 - INFO - Password matches, login successful
+2025-06-08 23:24:16,140 - INFO - Database connection closed properly
+2025-06-08 23:24:18,628 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-08 23:24:18,628 - INFO - Attempting to connect to database...
+2025-06-08 23:24:18,631 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:24:18,632 - INFO - Database tables initialized successfully
+2025-06-08 23:24:18,632 - INFO - Database connection successful
+2025-06-08 23:24:28,744 - INFO - Attempting login for user: naveenkumar
+2025-06-08 23:24:28,745 - INFO - User found in database
+2025-06-08 23:24:28,745 - INFO - Password matches, login successful
+2025-06-08 23:25:46,927 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-08 23:25:46,927 - INFO - Attempting to connect to database...
+2025-06-08 23:25:46,930 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:25:46,931 - INFO - Database tables initialized successfully
+2025-06-08 23:25:46,931 - INFO - Database connection successful
+2025-06-08 23:25:48,048 - INFO - Database connection closed properly
+2025-06-08 23:25:54,337 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-08 23:25:54,337 - INFO - Attempting to connect to database...
+2025-06-08 23:25:54,340 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:25:54,340 - INFO - Database tables initialized successfully
+2025-06-08 23:25:54,340 - INFO - Database connection successful
+2025-06-08 23:25:55,117 - INFO - Database connection closed properly
+2025-06-08 23:26:41,064 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-08 23:26:41,064 - INFO - Attempting to connect to database...
+2025-06-08 23:26:41,067 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:26:41,068 - INFO - Database tables initialized successfully
+2025-06-08 23:26:41,068 - INFO - Database connection successful
+2025-06-08 23:26:42,013 - INFO - Database connection closed properly
+2025-06-08 23:26:51,896 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-08 23:26:51,896 - INFO - Attempting to connect to database...
+2025-06-08 23:26:51,899 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:26:51,900 - INFO - Database tables initialized successfully
+2025-06-08 23:26:51,900 - INFO - Database connection successful
+2025-06-08 23:26:52,561 - INFO - Database connection closed properly
+2025-06-08 23:27:08,213 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-08 23:27:08,213 - INFO - Attempting to connect to database...
+2025-06-08 23:27:08,216 - INFO - Creating database if it doesn't exist...
+2025-06-08 23:27:08,216 - INFO - Database tables initialized successfully
+2025-06-08 23:27:08,216 - INFO - Database connection successful
+2025-06-08 23:27:21,512 - INFO - Attempting login for user: naveenkumar
+2025-06-08 23:27:21,513 - INFO - User found in database
+2025-06-08 23:27:21,513 - INFO - Password matches, login successful

@@ -557,12 +557,12 @@ def second_page(frame1, userid):
                 ax2 = plt.subplot(122)
                 ax2.set_facecolor('#FFFFFF')
                 
-                # Prepare data for bar chart
+                # 
                 all_categories = {k: v for k, v in categories.items() if v > 0}
                 if Income > 0:
                     all_categories["Income"] = Income
                     
-                if all_categories:  # Only create bar chart if there are values
+                if all_categories:  
                     x = list(all_categories.keys())
                     y = list(all_categories.values())
                     
@@ -580,10 +580,10 @@ def second_page(frame1, userid):
                                 f'₹{int(height):,}',
                                 ha='center', va='bottom', fontsize=8)
                 
-                # Adjust layout
+                
                 plt.tight_layout(pad=3.0)
                 
-                # Create canvas and display charts
+                
                 canvas = FigureCanvasTkAgg(fig, master=frame6)
                 canvas.draw()
                 canvas.get_tk_widget().pack(fill="both", expand=True, padx=10, pady=10)
@@ -598,7 +598,7 @@ def second_page(frame1, userid):
                 )
                 error_label.place(relx=0.5, rely=0.5, anchor="center")
             
-            # Update summary frame
+            
             for widget in frame7.winfo_children():
                 widget.destroy()
             
@@ -612,7 +612,7 @@ def second_page(frame1, userid):
             tk.messagebox.showerror("Error", f"An error occurred while creating the visualizations: {str(e)}")
 
     def create_summary_labels(summary_grid, income, total_expense):
-        # Income column
+        
         income_frame = ctk.CTkFrame(summary_grid, fg_color="#FFFFFF")
         income_frame.pack(side="left", expand=True, fill="both", padx=10)
         
@@ -632,7 +632,7 @@ def second_page(frame1, userid):
         )
         income_value_label.pack()
         
-        # Expense column
+        
         expense_frame = ctk.CTkFrame(summary_grid, fg_color="#FFFFFF")
         expense_frame.pack(side="right", expand=True, fill="both", padx=10)
         
@@ -663,14 +663,14 @@ def second_page(frame1, userid):
             get_date = date_entry.get().strip()
             get_comments = comment_entry.get().strip()
             
-            # Validate amount
+            
             valid, result = InputValidator.validate_amount(get_amount)
             if not valid:
                 tk.messagebox.showerror("Error", result)
                 return
             amount = result
             
-            # Validate date
+            
             valid, result = InputValidator.validate_date(get_date)
             if not valid:
                 tk.messagebox.showerror("Error", result)

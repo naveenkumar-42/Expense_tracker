@@ -1,0 +1,17 @@
+2025-06-09 08:36:27,413 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-09 08:36:27,414 - INFO - Attempting to connect to database...
+2025-06-09 08:36:27,418 - ERROR - MySQL Error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+2025-06-09 08:36:27,418 - WARNING - Could not establish database connection. Some features may not work.
+2025-06-09 08:38:39,170 - INFO - AI features are disabled. Set GOOGLE_GEMINI_API_KEY in .env file to enable them.
+2025-06-09 08:38:39,171 - INFO - Attempting to connect to database...
+2025-06-09 08:38:39,173 - ERROR - MySQL Error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+2025-06-09 08:38:39,173 - WARNING - Could not establish database connection. Some features may not work.
+2025-06-09 08:38:51,280 - INFO - Attempting to connect to database...
+2025-06-09 08:38:51,281 - ERROR - MySQL Error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+2025-06-09 08:39:11,164 - INFO - Attempting to connect to database...
+2025-06-09 08:39:11,171 - INFO - Creating database if it doesn't exist...
+2025-06-09 08:39:11,173 - INFO - Database tables initialized successfully
+2025-06-09 08:39:11,173 - INFO - Database connection successful
+2025-06-09 08:39:11,174 - INFO - Attempting login for user: naveenkumar
+2025-06-09 08:39:11,174 - INFO - User found in database
+2025-06-09 08:39:11,175 - INFO - Password matches, login successful

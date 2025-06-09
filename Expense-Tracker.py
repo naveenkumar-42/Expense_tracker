@@ -15,7 +15,7 @@ import atexit
 import logging
 import sys
 
-# Configure logging
+
 def setup_logging():
     log_dir = "logs"
     if not os.path.exists(log_dir):
@@ -35,13 +35,13 @@ def setup_logging():
     logger = logging.getLogger('ExpenseTracker')
     return logger
 
-# Initialize logger
+
 logger = setup_logging()
 
-# Load environment variables
+
 load_dotenv()
 
-# Configure Gemini AI (Optional)
+
 GOOGLE_API_KEY = os.getenv('GOOGLE_GEMINI_API_KEY')
 has_ai_features = False
 model = None  # <-- Add this line
@@ -1027,7 +1027,7 @@ def open_ai_chat_window():
             answer = response.text.strip()
 
             chat_display.config(state="normal")
-            chat_display.delete("end-2l", "end-1l")  # Remove "AI: Thinking..."
+            chat_display.delete("end-2l", "end-1l")  #
             chat_display.insert("end", f"AI: {answer}\n\n")
             chat_display.config(state="disabled")
             chat_display.see("end")
